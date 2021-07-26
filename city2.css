@@ -199,7 +199,7 @@ nav p{
    
 .main{
     width: 100%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
    margin: 0px;
    height: 100vh;
   
@@ -215,13 +215,13 @@ nav p{
     float: left;
     margin-top: 3%;
     margin-left: 2%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 .dreapta{
     width: 30%;
     margin-left: 2%;
     margin-top: 3%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     float: left;
     height: 60vh;
    
@@ -231,13 +231,13 @@ nav p{
     margin-top: 3%;
     width: 30%;
     float: left;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     height: 50vh;
 }
 
 .foot{
     width: 100%;
-   border: 2px solid red;
+   /* border: 2px solid red; */
     margin: 0px;
 }
 .foot p{
